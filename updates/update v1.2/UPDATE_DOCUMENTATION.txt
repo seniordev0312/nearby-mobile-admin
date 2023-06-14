@@ -1,0 +1,22 @@
+WhatuspFire v1.2 Update Documentation.
+
+Changelog:
+[Fixed] Crashing issue on Homepage.
+[Updated]: Bottom Tab designs.
+[Added]: AdMob.
+[Optimized]: App load time.
+
+How To update:
+1. unzip the update.zip file, and copy the contents and replace it inside main_script folder.
+2. Follow the main documentation guide to implement AdMob.
+
+Thanks, for buying....!!!
+
+
+if you're facing any problems, please contact me so i can help.
+
+By: Anwer Solangi
+Email: anwerthesolangi@gmail.com
+Insta: anwersolangi
+
+Copyright © 2021 Nearby- React Native App For Find and Chat Using GPS Technology

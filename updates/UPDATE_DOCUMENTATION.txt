@@ -1,0 +1,50 @@
+WhatuspFire v1.2 Update Documentation.
+
+Changelog:
+[Update] React Native version to 0.70.6.
+[Updated]: Bottom Tab designs.
+[Fixed] Several bugs.
+[Changed] Project structure.
+[Optimized] App performance and load time.
+[Updated] All dependencies to the latest one.
+[Changed] Coins system to Wallet system with rewards, withdrawal and send option.
+[Added] Ability to top-up coins in wallet.
+[Added] Ability to purchase Adfree subscriptions.
+[Changed] UI of Inbox, Notification and Profile Design.
+[Added] Discover Screen.
+[Added] Nice animations using Lottie Animations.
+[Added] Realtime Database for Chat instead of Firestore to save the cost.
+[Changed] Firebase project structure.
+[Added] Admin Panel.
+
+Admin Panel Features:
+[Added] Ability to send notifications to specific user.
+[Added] Ability to change and update slideshow shown in purchase screen.
+[Added] Ability to edit user.
+[Added] Ability to delete/Disable user.
+[Added] Ability to interact with support (submitted by users from application).
+[Added] Ability to update the script from admin panel.
+[Added] Ability to check user's membership expiration.
+... and much more.
+
+Since this is a major update, please copy the files from update folder and paste it inside your main_script folder.
+
+1. Remove all your node_modules.
+2. Run nom ci.
+3. Open terminal and navigate to iOS, and run pod install.
+4. Clean android using ./gradlew clean.
+5. Build the app accordingly.
+6. Setup admin panel, and go to Update Script.
+7. Run the script and wait for it until it finishes.
+8. That's it, you have updated the script.
+
+Thanks, for buying....!!!
+
+
+if you're facing any problems, please contact me so i can help.
+
+By: Anwer Solangi
+Email: anwerthesolangi@gmail.com
+Insta: anwersolangi
+
+Copyright © 2023 Nearby - React Native App For Find and Chat Using GPS Technology
